@@ -9,5 +9,6 @@ Create two commits daily
 - [x] Teusday 12th Sepember, 2023 
   - 11:54pm
   - 11:55pm
-- [ ] Wednesday 13th September, 2023
+- [x] Wednesday 13th September, 2023
   - 10:22pm
+  - 10:25pm
