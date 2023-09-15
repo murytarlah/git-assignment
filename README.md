@@ -28,3 +28,42 @@ A repo to practice the usage of git.
     -   let is a keyword used to declare a variable. It is used to declare a variable locally to a block scope.
 -   [x] const
     -   const is a keyword used to declare a variable. It is used to declare a variable locally to a block scope. The variable declared with const cannot be reassigned.
+
+### Talk about data Types in javascript
+
+-   Number: Represents numeric values, both integers and floating - point numbers.
+
+    ```javascript
+    let age = 25;
+    let temperature = 98.6;
+    ```
+
+-   String: Represents text and is enclosed in single or double quotes.
+
+    ```javascript
+    let name = "Alice";
+    ```
+
+-   Boolean: Represents a binary value of either `true` or`false`.
+
+    ```javascript
+    let isStudent = true;
+    ```
+
+-   Null: Represents the intentional absence of any object value.
+
+    ```javascript
+    let emptyValue = null;
+    ```
+
+-   Undefined: Represents an uninitialized variable or missing value.
+
+    ```javascript
+    let notDefined;
+    ```
+
+-   Symbol (ES6): Represents a unique and immutable value, often used as object property keys.
+
+    ```javascript
+    const uniqueKey = Symbol("description");
+    ```
